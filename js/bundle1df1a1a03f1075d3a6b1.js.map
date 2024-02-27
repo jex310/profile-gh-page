@@ -1,0 +1,1 @@
+{"version":3,"file":"js/bundle1df1a1a03f1075d3a6b1.js","mappings":"mBAEAA,QAAQC,IAAI,2B","sources":["webpack://profile-website/./src/index.js"],"sourcesContent":["import './style.scss';\n\nconsole.log('Webpack Starter Template');\n"],"names":["console","log"],"sourceRoot":""}
